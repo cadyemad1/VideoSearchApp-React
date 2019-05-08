@@ -1,0 +1,1 @@
+user will input search term then will send search request over to youtube api , once we get a list of videos back it will show them on right of screen user then select any video to see it in center with a title and description at bottom
