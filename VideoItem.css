@@ -1,0 +1,6 @@
+.video-item{
+    display: flex;
+    align-items: center;
+    cursor: pointer;
+    margin-bottom: 10px;
+}
